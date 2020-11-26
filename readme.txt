@@ -1,2 +1,2 @@
 Hello
-Git is a free
+Git is a free software
